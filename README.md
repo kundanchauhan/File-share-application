@@ -34,3 +34,7 @@ Now you can run the project with this command
 ```bash
 python manage.py runserver
 ```
+
+![goshare1](https://user-images.githubusercontent.com/44990207/116505837-89e83c00-a8d9-11eb-9b9f-817b80475509.PNG)
+
+![goshare2](https://user-images.githubusercontent.com/44990207/116505844-8ce32c80-a8d9-11eb-91b4-a3fb48c068fa.PNG)
